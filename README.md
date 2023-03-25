@@ -2,7 +2,7 @@
 
 ### :sparkles: Soy un Tecnico Electronico con orientacion a las Telecomunicaciones
 Mi objetivo es aprender dia a dia nuevos desafios y conocimientos, tanto de manera personal como laboralmente.
-Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la Universidad de Buenos Aires
+Actualmente me encuentro viviendo en la ciudad de Cosenza, en el pais de Italia
 
 #### :computer: Lenguajes y herramientas:
 * ![alt text][icono1] _HTML_
@@ -27,7 +27,7 @@ Actualmente me encuentro estudiando la carrera de Ingenieria Electronica en la U
 
 ##### :inbox_tray: Contactame por estos medios:
 [![alt text][logo1]](https://www.linkedin.com/in/ciurleoa98/)
-[![alt text][logo2]](https://api.whatsapp.com/send?phone=+5491157452801&text=Hola!%20Te%20hablo%20desde%20el%20enlace%20en%20tu%20perfil%20de%20GitHub)
+[![alt text][logo2]](https://api.whatsapp.com/send?phone=+393398136694&text=Ciao!%20Ti%20sto%20scrivendo%20dal%20link%20del%20tuo%20profilo%20GitHub)
 [![alt text][logo3]](mailto:ciurleoa98@gmail.com?Subject=Contacto%20desde%20perfil%20de%20GitHub)
 
 [logo1]:https://raw.githubusercontent.com/Agas98/Agas98/master/img/linkedin.ico "Linkedin"
